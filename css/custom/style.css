@@ -1608,7 +1608,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .header-bgimage3-1 {
-	background-image: url("../../images/Banner.png");	
+	background-image: url("../images/Banner.png");	
 	padding-bottom:130px;
 	padding-top:130px;	
     height: 100%; 
