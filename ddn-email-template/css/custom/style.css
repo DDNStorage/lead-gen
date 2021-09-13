@@ -2133,7 +2133,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 /*MODERN DESIGN*/
 .modern3-bgimage {
-	background-image: url("../../images/naver-header-1920x740-1-1.jpeg");	
+	background-image: url("https://raw.githubusercontent.com/DDNStorage/lead-gen/main/ddn-email-template/images/naver-header-1920x740-1-1.jpeg");	
 	height:356px;
 	position: absolute;
 	width: 50%;
