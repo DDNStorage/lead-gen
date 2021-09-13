@@ -1608,7 +1608,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 
 .header-bgimage3-1 {
-	background-image: url("../../images/Banner.png");	
+	background-image: url("https://raw.githubusercontent.com/DDNStorage/lead-gen/main/ddn-lp-template/images/Banner.png");	
 	padding-bottom:130px;
 	padding-top:130px;	
     height: 100%; 
@@ -4333,7 +4333,7 @@ font-family: 'Source Sans Pro', sans-serif;
 
 
 .utilizing3-bgimage {
-	background-image: url("../../images/Banner.png");
+	background-image: url("../main/ddn-lp-template/images/Banner.png");
 	padding-bottom:220px;
 	padding-top:220px;
     height: 100%; 
